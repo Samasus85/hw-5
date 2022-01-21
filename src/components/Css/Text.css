@@ -1,0 +1,19 @@
+.text {
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.text textarea {
+    width: 300px;
+    height: 150px;
+    color: rgb(56, 69, 250);
+    border: 1px solid palevioletred;
+}
+.text__p {
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.text__p p {
+    max-width: 90%;
+    color: rgb(238, 40, 188);
+}
